@@ -5,15 +5,12 @@ Specialized in AWS, IaC, DevOps Pipelines, and Distributed Systems.
 
 ---
 
-### Hi, I'm Kumar, founder of (Your Brand).  
+### Hi, I'm Kumar, founder of (Flutter dude).  
 I help companies build reliable cloud systems, automate everything possible, and scale efficiently using AWS + DevOps best practices.
 
 > 💡 **Tip**  
 > Want to know where your AWS setup stands? Book a free architecture review and discover security gaps, cost leaks, and optimization opportunities — no strings attached.
 
-[📘 BOOK A FREE AWS ACCOUNT REVIEW](#)
-
----
 
 ## 🧰 My Tech Stack
 
