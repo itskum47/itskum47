@@ -39,7 +39,7 @@ Starter kits and examples to help you build on AWS with best practices.
 | Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 🔃 Pull Requests |
 |---------|---------|----------|-----------|------------------|
 | [**AWS Terraform Starter Kit**](https://github.com/itskum47/AWSTerraformStarterKit) |  |  | issues: 0 open | pull requests: 0 open |
-| **AWS CloudFormation Starter Kit** |  |  | issues: 0 open | pull requests: 0 open |
+| [**AWS CloudFormation Starter Kit**](https://github.com/itskum47/aws-cloudformation-starter-kit) | |  | issues: 0 open | pull requests: 0 open |
 | **AWS CDK Starter Kit** | | | issues: 0 open | pull requests: 0 open |
 | **AWS CDK Python Starter Kit** | | | issues: 0 open | pull requests: 0 open |
 | **AWS CDK Examples** | | | issues: 0 open | pull requests: 0 open |
