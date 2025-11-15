@@ -9,7 +9,7 @@ Specialized in AWS, IaC, DevOps Pipelines, and Distributed Systems.
 I help companies build reliable cloud systems, automate everything possible, and scale efficiently using AWS + DevOps best practices.
 
 > 💡 **Tip**  
-> Want to know where your AWS setup stands? Book a free architecture review and discover security gaps, cost leaks, and optimization opportunities — no strings attached.
+> Want to know where your AWS setup stands?  architecture review and discover security gaps, cost leaks, and optimization opportunities — no strings attached.
 
 
 ## 🧰 My Tech Stack
@@ -40,9 +40,9 @@ Starter kits and examples to help you build on AWS with best practices.
 |---------|---------|----------|-----------|------------------|
 | [**AWS Terraform Starter Kit**](https://github.com/itskum47/AWSTerraformStarterKit) |  |  | issues: 0 open | pull requests: 0 open |
 | [**AWS CloudFormation Starter Kit**](https://github.com/itskum47/aws-cloudformation-starter-kit) | |  | issues: 0 open | pull requests: 0 open |
-| [**AWS CDK Starter Kit**](https://github.com/itskum47/aws-cdk-python-starter-kit) | | issues: 0 open | pull requests: 0 open |
-| **AWS CDK Python Starter Kit** | | | issues: 0 open | pull requests: 0 open |
-| **AWS CDK Examples** | | | issues: 0 open | pull requests: 0 open |
+| [**AWS CDK Starter Kit**](https://github.com/itskum47/aws-cdk-python-starter-kit) | | | issues: 0 open | pull requests: 0 open |
+| [**AWS CDK Python Starter Kit**](https://github.com/itskum47/cdk-starter-kit) | | | issues: 0 open | pull requests: 0 open |
+| [**AWS CDK Examples**](https://github.com/itskum47/aws-cdk-examples) | | | issues: 0 open | pull requests: 0 open |
 
 ---
 
