@@ -70,15 +70,6 @@ Productivity tools and code snippets to accelerate development.
 | AWS CDK Diff PR Commenter | | | issues: 0 open | pull requests: 0 open |
 | Terraform Plan PR Commenter | | | issues: 0 open | pull requests: 0 open |
 
----
-
-## 📊 Contribution Graph
-
-_2,565+ contributions in 2025_
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskum47&theme=react-dark&hide_border=true)
-
----
 
 ## 🌍 Socials
 
